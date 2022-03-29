@@ -36,6 +36,8 @@ Bu repository'de ise eğitimde kullanılan sunumlar, gösterilen notebooklar ve 
 
 # Kod örnekleri için
 
-https://github.com/PacktPublishing/Mastering-Transformers
+- https://colab.research.google.com/github/ageron/handson-ml2/blob/master/16_nlp_with_rnns_and_attention.ipynb#scrollTo=jKMU8QjjyYMZ
+- https://github.com/PacktPublishing/Mastering-Transformers
+
 
 ![img.png](img.png)
